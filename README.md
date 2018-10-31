@@ -1,17 +1,1 @@
-
-# Client and Control for www.seun.space
-
-Collect users' data and change mode to send to openFrameworks
-
-## How to use
-
-```
-$ npm i && npm start
-```
-
-And point your browser to `http://localhost:3000`. Optionally, specify
-a port by supplying the `PORT` env variable.
-
-## Features
-
-- send webSocket data to openFrameworks
+Web client and controller code for Sound of Time and Space, an interactive performance at Seoul Power Station, Seoul Foundation for Arts and Culture(SFAC), Seoul, Korea. Performed on October 27, 2017
